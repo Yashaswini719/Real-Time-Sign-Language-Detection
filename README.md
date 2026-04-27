@@ -217,11 +217,6 @@ Pillow          — image utility support
 
 ---
 
-## License
 
-This project is developed for academic purposes as a Final Year Project submission.  
-Feel free to extend and build upon it.
-
----
 
 *Built with ❤️ using Python, MediaPipe, TensorFlow, and OpenCV*
