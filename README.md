@@ -215,13 +215,4 @@ Pillow          — image utility support
 - [ ] **Cloud model** — serve predictions via a REST API (FastAPI + Docker)
 - [ ] **Regional sign languages** — extend to ISL, BSL, ASL variants
 
----
-
-## License
-
-This project is developed for academic purposes as a Final Year Project submission.  
-Feel free to extend and build upon it.
-
----
-
 *Built with ❤️ using Python, MediaPipe, TensorFlow, and OpenCV*
